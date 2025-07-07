@@ -1,4 +1,4 @@
-# MultimodalVideoAnalysis
+# Multimodal Video Analysis
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nvVEUtZSjwY
 " target="_blank"><img src="http://img.youtube.com/vi/nvVEUtZSjwY/0.jpg" 
